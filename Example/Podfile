@@ -1,11 +1,12 @@
+platform :ios, '12.0'
 use_frameworks!
 
 target 'CoordinatorService_Example' do
   pod 'CoordinatorService', :path => '../'
-
+  pod 'CoordinatorServiceInterface', :path => '../../CoordinatorServiceInterface'
+  
   target 'CoordinatorService_Tests' do
     inherit! :search_paths
 
-    
   end
 end
