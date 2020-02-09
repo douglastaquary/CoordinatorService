@@ -1,9 +1,11 @@
 # CoordinatorService
-
-[![CI Status](https://img.shields.io/travis/douglastaquary/CoordinatorService.svg?style=flat)](https://travis-ci.org/douglastaquary/CoordinatorService)
-[![Version](https://img.shields.io/cocoapods/v/CoordinatorService.svg?style=flat)](https://cocoapods.org/pods/CoordinatorService)
-[![License](https://img.shields.io/cocoapods/l/CoordinatorService.svg?style=flat)](https://cocoapods.org/pods/CoordinatorService)
-[![Platform](https://img.shields.io/cocoapods/p/CoordinatorService.svg?style=flat)](https://cocoapods.org/pods/CoordinatorService)
+<p align="left">
+    <img src="https://img.shields.io/badge/Swift-5.1-orange.svg" />
+     <img src="https://img.shields.io/badge/platforms-ios-brightgreen.svg?style=flat" alt="iOS" />
+    <a href="https://twitter.com/bluesprogrammer">
+        <img src="https://img.shields.io/badge/twitter-@bluesprogrammer-blue.svg?style=flat" alt="Twitter: @bluesprogrammer" />
+    </a>
+</p>
 
 ## Example
 
@@ -22,7 +24,7 @@ pod 'CoordinatorService'
 
 ## Author
 
-douglastaquary, douglas.taquary@santander.com.br
+douglastaquary
 
 ## License
 
