@@ -1,0 +1,22 @@
+PODS:
+  - CoordinatorService (0.1.0):
+    - CoordinatorServiceInterface
+  - CoordinatorServiceInterface (0.1.0)
+
+DEPENDENCIES:
+  - CoordinatorService (from `../`)
+  - CoordinatorServiceInterface (from `../../CoordinatorServiceInterface`)
+
+EXTERNAL SOURCES:
+  CoordinatorService:
+    :path: "../"
+  CoordinatorServiceInterface:
+    :path: "../../CoordinatorServiceInterface"
+
+SPEC CHECKSUMS:
+  CoordinatorService: 7807b3f5c9d5ad931664bcf7149da4d29ac5b639
+  CoordinatorServiceInterface: 4e3769c82405c178a358a12eefb9778cb3951d22
+
+PODFILE CHECKSUM: b7647f66eaafcdc8cf219eb795c77bec38952ad7
+
+COCOAPODS: 1.5.3
