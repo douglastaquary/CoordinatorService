@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CoordinatorServiceInterface",
+        "repositoryURL": "https://github.com/douglastaquary/CoordinatorServiceInterface.git",
+        "state": {
+          "branch": null,
+          "revision": "5f1017604fe9d2f4a0bbd26fe2a085362e2c1e10",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
