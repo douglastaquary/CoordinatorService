@@ -1,6 +1,0 @@
-framework module CoordinatorService {
-  umbrella header "CoordinatorService-umbrella.h"
-
-  export *
-  module * { export * }
-}

@@ -1,6 +1,0 @@
-framework module Pods_CoordinatorService_Tests {
-  umbrella header "Pods-CoordinatorService_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}
